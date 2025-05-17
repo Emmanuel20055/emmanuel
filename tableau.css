@@ -1,0 +1,31 @@
+body{
+
+	background-color: #B28A9D
+}
+td.A{
+	 background-color: red;
+}
+td.B{
+
+	background-color: green;
+}
+td.C{
+
+	background-color: #712525;
+}
+td.D{
+
+	color: black;background-color: white
+}
+td.E{
+
+	background-color: blue;
+}
+td.F{
+
+	background-color: orange;
+}
+tr.{
+
+	background-color: yellow;
+}
